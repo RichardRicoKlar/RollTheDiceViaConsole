@@ -5,7 +5,7 @@ Start it, decide number of sides and enjoy the real game. That's it, really.
 # Why I actually even decided to deploy this nonsense?
 There can be many reason, regardless the size of the project. Let me explain.
 ### I had 2 main reasons:
-   - Create as minimalistic and as clean code as possible, yet still keeping the Clean Architecture standards (tho there isn't any infrastucture, neither proper GUI)
+   - Create as minimalistic and as clean code as possible, yet still keeping the Clean Architecture standards (tho there isn't any Infrastucture part, neither proper GUI)
    - Finish project and see release options of GitHub for my wider (and more serious) projects
 ### But we can point out more:
    - No project is too small to start with and finish it - Even small project of such can have some challenges and since we're going from a scratch to a very end, we'll get in touch with all parts/phases of a process. This can supplement a solid ground, which will provide some basic experience needed for the future projects.
