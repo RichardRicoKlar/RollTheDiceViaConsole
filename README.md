@@ -17,7 +17,7 @@ There can be many reason, regardless the size of the project. Let me explain.
 - I programmed the app in C# only, using standard methods, no NuGet packages or anything less usual. You'd likely be able to run it even on a [W3 online compiler](https://www.w3schools.com/cs/trycs.php?filename=demo_compiler) if you'd move methods under one script. 
 - I belive that code is still imperfect and always will be, but we all start somewhere.
 - Yes, I know there are better alternatives on a web and where not.
-- Yes, I actully do use the app when I need to make some quick roll, lol.
+- Yes, I actually do use the app when I need to make some quick roll, lol.
 - Yes, I tried it to play a game with it.
 - No, I'm not certain if it's actually fair. It's using standard C# Random method for integers, up to you what you if you believe it or not :)
 
