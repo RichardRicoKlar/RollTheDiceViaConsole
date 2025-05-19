@@ -18,7 +18,7 @@ There can be many reason, regardless the size of the project. Let me explain.
 - I belive that code is still imperfect and always will be, but we all start somewhere.
 - Yes, I know there are better alternatives on a web and where not.
 - Yes, I actually do use the app when I need to make some quick roll, lol.
-- Yes, I tried it to play a game with it.
+- Yes, I tried to play a game with it.
 - No, I'm not certain if it's actually fair. It's using standard C# Random method for integers, up to you what you if you believe it or not :)
 
 # I found an issue with your project!
